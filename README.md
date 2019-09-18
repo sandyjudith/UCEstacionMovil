@@ -1,0 +1,2 @@
+# UCEstacionMovil
+Sensores utilizados
